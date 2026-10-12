@@ -1,7 +1,7 @@
 # TP MLOps — Pipeline ML avec MLflow
 
 Autre projet : [TP CI/CD Docker + GitHub Actions](https://github.com/MOHAMED301224FCDR/tp1)
-
+Autre projet : [TP MLOps — MLflow](https://github.com/MOHAMED301224FCDR/mlops-tp1)
 ## Description
 
 - Tracking d'experiences avec **MLflow** (parametres, metriques, modeles)
