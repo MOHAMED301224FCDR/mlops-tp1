@@ -1,17 +1,21 @@
-TP MLOps — Pipeline ML avec MLflow
-🔗 Autre projet : TP CI/CD Docker + GitHub Actions
+# TP MLOps — Pipeline ML avec MLflow
 
-Description
-Pipeline Machine Learning (dataset Iris) avec :
+Autre projet : [TP CI/CD Docker + GitHub Actions](https://github.com/MOHAMED301224FCDR/tp1)
 
-Tracking d'expériences avec MLflow (paramètres, métriques, modèles)
-Comparaison d'expériences (n_estimators = 50 / 100 / 200)
-Prédictions avec modèle sauvegardé (joblib)
-Analyse Data Drift
-Versionnement Git
-Résultats
-n_estimators	Accuracy
-50	0.90
-100	0.90
-200	0.90
-Sur ce dataset, augmenter n_estimators n'améliore pas l'accuracy : plus d'arbres = plus de calcul sans gain ici.
+## Description
+
+- Tracking d'experiences avec **MLflow** (parametres, metriques, modeles)
+- Comparaison d'experiences (n_estimators = 50 / 100 / 200)
+- Predictions avec modele sauvegarde (joblib)
+- Analyse **Data Drift**
+- Versionnement **Git**
+
+## Resultats
+
+| n_estimators | Accuracy |
+|--------------|----------|
+| 50           | 0.90     |
+| 100          | 0.90     |
+| 200          | 0.90     |
+
+Sur ce dataset, augmenter n_estimators n'ameliore pas l'accuracy : plus d'arbres = plus de calcul sans gain ici.
